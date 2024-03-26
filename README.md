@@ -1,7 +1,7 @@
 [![omp-5.png](https://i.postimg.cc/90szPbH9/omp-5.png)](https://postimg.cc/V0BYmj6s)
 Python script that summarizes PDF documents using a large language model (LLM) returning text files.
 
-**transforming 1000 pages into less than 100**
+**transforming 1000 pages into less than 100, and can summarize everything you want**
 
 # Explanation
 "Compartiendo resumidor": In this notebook you will be able to make the summary in a drive folder where you have your books, or PDF files. It is a useful prototype to extract many valuable concepts from multiple books
